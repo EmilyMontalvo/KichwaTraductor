@@ -32,7 +32,7 @@
 |  | 3. Presione el botón "Traducir". |
 | **Datos de salida** | El Sistema muestra la traducción del número ingresado. |
 | **Resultado esperado** | pichka chunka iskun |
-| **Resultado obtenido** | pichka chunka iskun |
+| **Resultado obtenido** | pishka chunka iskun |
 | **Analista** | CodeFusion |
 | **Observaciones** |  |
 
