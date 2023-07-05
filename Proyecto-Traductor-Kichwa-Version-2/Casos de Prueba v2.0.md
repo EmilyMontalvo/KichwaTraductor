@@ -4,7 +4,7 @@ Fecha: 3 de julio de 2023
 
 ## Resumen
 
-En este informe se presentan los resultados de las pruebas unitarias realizadas al Traductor de Números a Kichwa. El objetivo de estas pruebas es asegurar que el traductor funcione correctamente y produzca las salidas esperadas para diferentes casos de entrada. A continuación, se describen los casos de prueba y los resultados obtenidos.
+En este informe se presentan los resultados de las pruebas unitarias realizadas al programa Traductor de Kichwa Versión 2. El objetivo de estas pruebas es asegurar que el traductor funcione correctamente y produzca las salidas esperadas para diferentes casos de entrada. A continuación, se describen los casos de prueba y los resultados obtenidos.
 
 ## Caso de prueba 1: Entrada vacía
 - Descripción: Se prueba ingresar un campo vacío.
