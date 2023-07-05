@@ -4,7 +4,7 @@ Fecha: 3 de julio de 2023
 
 ## Resumen
 
-En este informe se presenta el resultado de las pruebas realizadas al programa de traducción de números a kichwa. El objetivo de las pruebas fue identificar y documentar los defectos funcionales y no funcionales presentes en el programa. A continuación, se detalla el resultado de las pruebas:
+En este informe se presenta el resultado de las pruebas realizadas al programa Traductor de Kichwa Versión 2. El objetivo de las pruebas fue identificar y documentar los defectos funcionales y no funcionales presentes en el programa. A continuación, se detalla el resultado de las pruebas:
 
 ## Defectos Funcionales
 
