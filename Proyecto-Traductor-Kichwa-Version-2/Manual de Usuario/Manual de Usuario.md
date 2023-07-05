@@ -1,5 +1,8 @@
 # Manual de Usuario
 
+## Resumen
+En este documento se presenta un manual completo del funcionamiento del programa Traductor de Kichwa Versión 2 para el usuario.
+
 ## Inicio
 
 1. Para ingresar al programa se debe ingresar al siguiente enlace: https://sleoncamacho.github.io/CalidadCodeFusion/
