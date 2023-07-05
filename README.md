@@ -6,4 +6,4 @@ Somos un equipo de desarrolladores que buscan la creación de software de calida
 
 ## Nuestros proyectos
 - [TraductorNumeroKichwa v1](https://github.com/SLeonCamacho/CalidadCodeFusion/tree/0c2485284cc24fb4e4c5daf6d93372567ab88129/Deber3Grupal-EscribirProbarYDepurarUnCodigo)
-- [Traductor Kichwa Version 2]()
+- [Traductor Kichwa Version 2](https://github.com/SLeonCamacho/CalidadCodeFusion/tree/69a250a2592bfaa13d6850359546d07da5a668a5/Proyecto-Traductor-Kichwa-Version-2)
