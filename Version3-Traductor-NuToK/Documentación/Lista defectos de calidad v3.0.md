@@ -15,7 +15,7 @@ Durante las pruebas exhaustivas llevadas a cabo, no se han identificado defectos
 Tras realizar diversas pruebas para evaluar los aspectos no funcionales del programa, se han encontrado los siguientes inconvenientes relevantes a la comodidad del usuario:
 
 - Usabilidad-Estética de la interfaz de usuario: Se encontró un error ortográfico en el apartado de los contactos dentro de la cabecera. Se recomienda usar la palabra con tilde "Llámanos" en vez de "Llamanos" para referirse a la segunda persona del singular.
-- Usabilidad-Estética de la interfaz de usuario: Se aconseja que el campo de ingreso de los número enteros en forma arábiga debe ser redondeado al igual que los botones de la interfaz.
+- Usabilidad-Estética de la interfaz de usuario: Se aconseja que el campo de ingreso de los número enteros del 0 al 9999, tenga los bordes redondeados al igual que los botones dentro de la interfaz.
 
 De igual forma, el programa ha demostrado tener pocos defectos en el contexto de las pruebas realizadas. Asimismo, la interfaz de usuario se ha mostrado intuitiva y fácil de usar, permitiendo a los usuarios ingresar números sin dificultades y obteniendo traducciones precisas al idioma kichwa.
 
