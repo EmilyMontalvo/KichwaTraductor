@@ -1,4 +1,4 @@
-# Pruebas Unitarias - Traductor de Números a Kichwa
+# Pruebas Unitarias - Traductor NuToK
 
 Fecha: 10 de julio de 2023
 
