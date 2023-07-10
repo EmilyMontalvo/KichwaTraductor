@@ -4,13 +4,13 @@
 
 - [Historias de Usuario]() 
 
-- [Diagrama de flujo](./Documentación/Diagrama de flujo/Diagrama de flujo.md) 
+- ![Diagrama de flujo](./Documentación/Diagrama de flujo/Diagrama de flujo.md) 
 
 - [Casos de prueba]()  
 
 - [Lista de defectos de calidad]() 
 
-- [Manual de Usuario](./Documentación/Manual de Usuario/Manual de Usuario.md) 
+- ![Manual de Usuario](./Documentación/Manual de Usuario/Manual de Usuario.md) 
 
 - [Código fuente]() 
 
