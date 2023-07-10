@@ -1,4 +1,4 @@
-# Traductor Kichwa Versión 2
+# Versión 3 - Traductor NuToK
 
 ## Documentación
 
