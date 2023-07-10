@@ -12,9 +12,12 @@ Durante las pruebas exhaustivas llevadas a cabo, no se han identificado defectos
 
 ## Defectos No Funcionales
 
-Tras realizar diversas pruebas para evaluar los aspectos no funcionales del programa, no se han encontrado inconvenientes relevantes. El programa ha demostrado un rendimiento óptimo en la traducción de números, ofreciendo resultados rápidos y precisos, incluso para números grandes. Asimismo, la interfaz de usuario se ha mostrado intuitiva y fácil de usar, permitiendo a los usuarios ingresar números sin dificultades y obteniendo traducciones precisas al idioma kichwa.
+Tras realizar diversas pruebas para evaluar los aspectos no funcionales del programa, se han encontrado los siguientes inconvenientes relevantes a la comodidad del usuario:
 
-- Usabilidad: Se recomienda proporcionar mensajes de error más descriptivos y precisos que indiquen claramente el problema. Por ejemplo, cuando se ingresa un número negativo, se podría mostrar un mensaje de error como “El número ingresado es negativo. Por favor, ingrese un número válido (0-9999)”. Del mismo modo, cuando se ingresan letras en lugar de números, se podría mostrar un mensaje como “Se han ingresado caracteres no numéricos. Por favor, ingrese un número válido (0-9999)”.
+- Usabilidad-Estética de la interfaz de usuario: Se encontró un error ortográfico en el apartado de los contactos dentro de la cabecera. Se recomienda usar la palabra con tilde "Llámanos" en vez de "Llamanos" para referirse a la segunda persona del singular.
+- Usabilidad-Estética de la interfaz de usuario: Se aconseja que el campo de ingreso de los número enteros en forma arábiga debe ser redondeado al igual que los botones de la interfaz.
+
+De igual forma, el programa ha demostrado tener pocos defectos en el contexto de las pruebas realizadas. Asimismo, la interfaz de usuario se ha mostrado intuitiva y fácil de usar, permitiendo a los usuarios ingresar números sin dificultades y obteniendo traducciones precisas al idioma kichwa.
 
 ## Conclusiones
 
@@ -24,7 +27,7 @@ El programa cumple con los requisitos establecidos y se recomienda su implementa
 
 ## Recomendaciones
 
-Dado que no se han identificado defectos funcionales y tan solo un defecto no funcional durante las pruebas, solo se requieren acciones correctivas mínimas para el defecto no funcional expuesto, sin embargo, se sugiere realizar pruebas de aceptación con usuarios finales que hablen kichwa. Esto permitirá obtener retroalimentación adicional y validar la precisión y facilidad de uso del programa en un entorno real.
+Dado que no se han identificado defectos funcionales y pocos defectos no funcionales durante las pruebas, solo se requieren acciones correctivas mínimas para los defectos no funcionales expuestos, sin embargo, se sugiere realizar pruebas de aceptación con usuarios finales que hablen kichwa. Esto permitirá obtener retroalimentación adicional y validar la precisión y facilidad de uso del programa en un entorno real. También, cabe resaltar que es necesaria la indagación posterior mediante la creación de nuevas pruebas para corroborar las conclusiones obtenidas en este informe.
 
 Dado que ningún programa de software es perfecto y siempre existe la posibilidad de encontrar problemas en diferentes condiciones de uso o situaciones particulares, se recomienda mantener un enfoque cauteloso y estar abiertos a posibles mejoras y correcciones en futuras iteraciones del programa dado que siempre existe la posibilidad de que puedan surgir nuevos defectos en el futuro o en situaciones específicas de uso, por lo que es importante seguir monitoreando y actualizando el programa según sea necesario.
 
