@@ -4,8 +4,7 @@
 |-----------|-----------|
 | Historia de usuario:   | Como usuario quiero obtener la traducción correcta en kichwa de un numero ingresado de forma numerica para saber su correcta escritura de una forma amigable y sencilla. |
 | Criterio de aceptación:   | 1. La interfaz debe contar con una interfaz la cual este encargada de mostrar el númerotraducido en pantalla y a su vez ser intuitiva de usar.	|
-|-----------|-----------|
-||| 2. La interfaz debe ser accesible desde cualquier navegador sin importar su tamaño, ya sea uno de Ordenador o uno mobile (Portabilidad) |
+|| 2. La interfaz debe ser accesible desde cualquier navegador sin importar su tamaño, ya sea uno de Ordenador o uno mobile (Portabilidad) |
 
 |  HU n° 2 | Titulo: Traduccion controlada de numeros en un cierto rango |
 |-----------|-----------|
