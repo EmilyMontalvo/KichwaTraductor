@@ -1,21 +1,19 @@
 # Historias de usuario
 
-|  HU n° 1 | Titulo: Traducción de números |
+|  HU n° 1 | Titulo: Traducción de números a su respectivo equivalente en kichwa |
 |-----------|-----------|
-| Historia de usuario:   | Como usuario quiero obtener la traducción de un número en kichwa para saber como se escribe dicho número de manera correcta. |
-| Criterio de aceptación:   | Dado un número cualquiera, cuando lo ingrese y se seleccione la opción de traducir, se mostrará el resultado escrito en pantalla de manera correcta.	|
+| Historia de usuario:   | Como usuario quiero obtener la traducción correcta en kichwa de un numero ingresado de forma numerica para saber su correcta escritura de una forma amigable y sencilla. |
+| Criterio de aceptación:   | 1. La interfaz debe contar con una interfaz la cual este encargada de mostrar el númerotraducido en pantalla y a su vez ser intuitiva de usar.	|||| 2. La interfaz debe ser accesible desde cualquier navegador sin importar su tamaño, ya sea uno de Ordenador o uno mobile (Portabilidad) |
 
-|  HU n° 2 | Titulo: Salida del sistema |
+|  HU n° 2 | Titulo: Traduccion controlada de numeros en un cierto rango |
 |-----------|-----------|
-| Historia de usuario:   | Como usuario deseo tener una forma fácil de salir del sistema. |
-| Criterio de aceptación:   | Dado que se termino de usar el sistema, cuando seleccione un botón, este me regresará a la pantalla principal sin necesidad de cerrar el navegador.|
+| Historia de usuario:   | Como usuario deseo ingresar solamente numeros entre el 0 y el 9999 para que cualquier otro que no este en este rango sea excluido. |
+| Criterio de aceptación:   | 1. Comprobar la entrada del usuario para que no se permita ingresar numeros decimales (Usabilidad).|||| 2. Asegurar que no se ingresen numeros que se encuentre por debajo o por encima de el rango específico (usabilidad) |||| 3. Siempre debe validarse la entrada para evitar que se no se generes problemas inesperados por el ingreso inadecuado (Fiabilidad)|
 
-|  HU n° 3 | Titulo: Protección de errores |
+|  HU n° 3 | Titulo: Codigo entendible y mantenible|
 |-----------|-----------|
-| Historia de usuario:   | Como usuario deseo que no se permita ingresar valores erróneos al sistema. |
-| Criterio de aceptación:   | Dado que ingrese un número este se deberá validar en caso de que la información sea correcta y no se deben presentar errores de escritura.|
+| Historia de usuario:   | Como desarrollador quiero que el código se encuentre debidamente comentado y limpio para que sea facil de mantener . |
+| Criterio de aceptación:   | 1. El codigo debe mantener estándares ñara su faxil entendimiento y optimizacion().|||| 2. Bajo acoplamiento entre los componentes para su adecuado mantenimiento y evitar futuros errores (Modularidad) |
 
-|  HU n° 4 | Titulo: Manejo del sistema |
-|-----------|-----------|
-| Historia de usuario:   | Como usuario quiero que el sistema sea sencillo al momento de querer manejarlo.|
-| Criterio de aceptación:   | Dado que soy un usuario inexperto en el sistema, cuando ingrese por primera vez, este será fácil de intuir para qué sirva cada parte del programa.|
+
+
