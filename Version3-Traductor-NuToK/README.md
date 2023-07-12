@@ -2,7 +2,7 @@
 
 ## Documentación
 
-- [Historias de Usuario]() 
+- [Historias de Usuario](https://github.com/SLeonCamacho/CalidadCodeFusion/blob/3baa9f3c1f9383bf4a40a51d7dacbe3ac24fdf16/Version3-Traductor-NuToK/Documentaci%C3%B3n/Historias%20de%20Usuario.md) 
 
 - [Diagrama de flujo](https://github.com/SLeonCamacho/CalidadCodeFusion/blob/09ab06c8d4fc4712a3f1fe8d2fb2f7cbd89a5bf9/Version3-Traductor-NuToK/Documentaci%C3%B3n/Diagrama%20de%20flujo/Diagrama%20de%20flujo.md) 
 
