@@ -9,12 +9,15 @@
 |  HU n° 2 | Titulo: Traduccion controlada de numeros en un cierto rango |
 |-----------|-----------|
 | Historia de usuario:   | Como usuario deseo ingresar solamente numeros entre el 0 y el 9999 para que cualquier otro que no este en este rango sea excluido. |
-| Criterio de aceptación:   | 1. Comprobar la entrada del usuario para que no se permita ingresar numeros decimales (Usabilidad).|| 2. Asegurar que no se ingresen numeros que se encuentre por debajo o por encima de el rango específico (usabilidad) || 3. Siempre debe validarse la entrada para evitar que se no se generes problemas inesperados por el ingreso inadecuado (Fiabilidad)|
+| Criterio de aceptación:   | 1. Comprobar la entrada del usuario para que no se permita ingresar numeros decimales (Usabilidad).|
+|| 2. Asegurar que no se ingresen numeros que se encuentre por debajo o por encima de el rango específico (usabilidad) |
+|| 3. Siempre debe validarse la entrada para evitar que se no se generes problemas inesperados por el ingreso inadecuado (Fiabilidad)|
 
 |  HU n° 3 | Titulo: Codigo entendible y mantenible|
 |-----------|-----------|
 | Historia de usuario:   | Como desarrollador quiero que el código se encuentre debidamente comentado y limpio para que sea facil de mantener . |
-| Criterio de aceptación:   | 1. El codigo debe mantener estándares ñara su faxil entendimiento y optimizacion().|| 2. Bajo acoplamiento entre los componentes para su adecuado mantenimiento y evitar futuros errores (Modularidad) |
+| Criterio de aceptación:   | 1. El codigo debe mantener estándares ñara su faxil entendimiento y optimizacion().|
+|| 2. Bajo acoplamiento entre los componentes para su adecuado mantenimiento y evitar futuros errores (Modularidad) |
 
 
 
